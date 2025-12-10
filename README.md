@@ -28,6 +28,8 @@ The Python script
 
 3. Run the Application
 📦 Dependencies
+
+
 Python 3.x
 numpy
 pandas
